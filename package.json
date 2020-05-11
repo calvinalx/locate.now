@@ -13,14 +13,14 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "cookie-session": "^2.0.0-beta.3",
-    "dotenv": "^5.0.0",
-    "express": "^4.16.2",
-    "geoip-lite": "^1.2.1",
-    "helmet": "^3.11.0"
+    "body-parser": "^1.19.0",
+    "cookie-session": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "geoip-lite": "^1.4.1",
+    "helmet": "^3.22.0"
   },
   "devDependencies": {
-    "nodemon": "^1.14.6"
+    "nodemon": "^2.0.3"
   }
 }
